@@ -1,0 +1,350 @@
+[
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq1qm_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq1qm.dir/eq1qm.c.o -c /home/anon/dev/cpp/eq10q/eq1qm.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq1qm.c",
+  "output": "CMakeFiles/eq1qm.dir/eq1qm.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq1qs_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq1qs.dir/eq1qs.c.o -c /home/anon/dev/cpp/eq10q/eq1qs.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq1qs.c",
+  "output": "CMakeFiles/eq1qs.dir/eq1qs.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq4qm_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq4qm.dir/eq4qm.c.o -c /home/anon/dev/cpp/eq10q/eq4qm.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq4qm.c",
+  "output": "CMakeFiles/eq4qm.dir/eq4qm.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq4qs_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq4qs.dir/eq4qs.c.o -c /home/anon/dev/cpp/eq10q/eq4qs.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq4qs.c",
+  "output": "CMakeFiles/eq4qs.dir/eq4qs.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq6qm_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq6qm.dir/eq6qm.c.o -c /home/anon/dev/cpp/eq10q/eq6qm.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq6qm.c",
+  "output": "CMakeFiles/eq6qm.dir/eq6qm.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq6qs_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq6qs.dir/eq6qs.c.o -c /home/anon/dev/cpp/eq10q/eq6qs.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq6qs.c",
+  "output": "CMakeFiles/eq6qs.dir/eq6qs.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq10qm_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq10qm.dir/eq10qm.c.o -c /home/anon/dev/cpp/eq10q/eq10qm.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq10qm.c",
+  "output": "CMakeFiles/eq10qm.dir/eq10qm.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Deq10qs_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq10qs.dir/eq10qs.c.o -c /home/anon/dev/cpp/eq10q/eq10qs.c",
+  "file": "/home/anon/dev/cpp/eq10q/eq10qs.c",
+  "output": "CMakeFiles/eq10qs.dir/eq10qs.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dgate_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/gate.dir/gate_mono.c.o -c /home/anon/dev/cpp/eq10q/gate_mono.c",
+  "file": "/home/anon/dev/cpp/eq10q/gate_mono.c",
+  "output": "CMakeFiles/gate.dir/gate_mono.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dcompressor_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/compressor.dir/compressor_mono.c.o -c /home/anon/dev/cpp/eq10q/compressor_mono.c",
+  "file": "/home/anon/dev/cpp/eq10q/compressor_mono.c",
+  "output": "CMakeFiles/compressor.dir/compressor_mono.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dcompressor_sc_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/compressor_sc.dir/compressor_mono_sc.c.o -c /home/anon/dev/cpp/eq10q/compressor_mono_sc.c",
+  "file": "/home/anon/dev/cpp/eq10q/compressor_mono_sc.c",
+  "output": "CMakeFiles/compressor_sc.dir/compressor_mono_sc.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dgate_stereo_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/gate_stereo.dir/gate_stereo.c.o -c /home/anon/dev/cpp/eq10q/gate_stereo.c",
+  "file": "/home/anon/dev/cpp/eq10q/gate_stereo.c",
+  "output": "CMakeFiles/gate_stereo.dir/gate_stereo.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dcompressor_stereo_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/compressor_stereo.dir/compressor_stereo.c.o -c /home/anon/dev/cpp/eq10q/compressor_stereo.c",
+  "file": "/home/anon/dev/cpp/eq10q/compressor_stereo.c",
+  "output": "CMakeFiles/compressor_stereo.dir/compressor_stereo.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dcompressor_stereo_sc_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/compressor_stereo_sc.dir/compressor_stereo_sc.c.o -c /home/anon/dev/cpp/eq10q/compressor_stereo_sc.c",
+  "file": "/home/anon/dev/cpp/eq10q/compressor_stereo_sc.c",
+  "output": "CMakeFiles/compressor_stereo_sc.dir/compressor_stereo_sc.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dbassup_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/bassup.dir/bassup.c.o -c /home/anon/dev/cpp/eq10q/bassup.c",
+  "file": "/home/anon/dev/cpp/eq10q/bassup.c",
+  "output": "CMakeFiles/bassup.dir/bassup.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dmatrix_lr2ms_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/matrix_lr2ms.dir/matrix_lr2ms.c.o -c /home/anon/dev/cpp/eq10q/matrix_lr2ms.c",
+  "file": "/home/anon/dev/cpp/eq10q/matrix_lr2ms.c",
+  "output": "CMakeFiles/matrix_lr2ms.dir/matrix_lr2ms.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q",
+  "command": "/usr/bin/cc -Dmatrix_ms2lr_EXPORTS  -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/matrix_ms2lr.dir/matrix_ms2lr.c.o -c /home/anon/dev/cpp/eq10q/matrix_ms2lr.c",
+  "file": "/home/anon/dev/cpp/eq10q/matrix_ms2lr.c",
+  "output": "CMakeFiles/matrix_ms2lr.dir/matrix_ms2lr.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIE -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq10q_gui_tester.dir/main.cpp.o -c /home/anon/dev/cpp/eq10q/gui/main.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/main.cpp",
+  "output": "gui/CMakeFiles/eq10q_gui_tester.dir/main.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIE -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq10q_gui_tester.dir/guitester_cfg_.cpp.o -c /home/anon/dev/cpp/eq10q/gui/guitester_cfg_.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/guitester_cfg_.cpp",
+  "output": "gui/CMakeFiles/eq10q_gui_tester.dir/guitester_cfg_.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui",
+  "command": "/usr/bin/c++ -Deq10q_gui_EXPORTS -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eq10q_gui.dir/eq10q_ui.cpp.o -c /home/anon/dev/cpp/eq10q/gui/eq10q_ui.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/eq10q_ui.cpp",
+  "output": "gui/CMakeFiles/eq10q_gui.dir/eq10q_ui.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui",
+  "command": "/usr/bin/c++ -Ddynamics_gui_EXPORTS -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamics_gui.dir/dyn_ui.cpp.o -c /home/anon/dev/cpp/eq10q/gui/dyn_ui.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/dyn_ui.cpp",
+  "output": "gui/CMakeFiles/dynamics_gui.dir/dyn_ui.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui",
+  "command": "/usr/bin/c++ -Dbassup_gui_EXPORTS -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/bassup_gui.dir/bassup_ui.cpp.o -c /home/anon/dev/cpp/eq10q/gui/bassup_ui.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/bassup_ui.cpp",
+  "output": "gui/CMakeFiles/bassup_gui.dir/bassup_ui.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui",
+  "command": "/usr/bin/c++ -Dmatrix_ms_gui_EXPORTS -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/matrix_ms_gui.dir/midside_ui.cpp.o -c /home/anon/dev/cpp/eq10q/gui/midside_ui.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/midside_ui.cpp",
+  "output": "gui/CMakeFiles/matrix_ms_gui.dir/midside_ui.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/mainwidget.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/mainwidget.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/bandctl.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/bandctl.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/bandctl.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/bandctl.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/eqparams.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/eqparams.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/eqparams.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/eqparams.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/knob2.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/knob2.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/vuwidget.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/vuwidget.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/vuwidget.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/vuwidget.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/eqwindow.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/eqwindow.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/eqwindow.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/eqwindow.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/filter.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/filter.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/filter.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/filter.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/setwidgetcolors.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/setwidgetcolors.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/setwidgetcolors.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/setwidgetcolors.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/bodeplot.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/bodeplot.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/bodeplot.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/bodeplot.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/button.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/button.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/button.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/button.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/toggle_button.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/toggle_button.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/toggle_button.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/toggle_button.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/abbutton.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/abbutton.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/abbutton.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/abbutton.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/eqwin.dir/sidechainbox.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/sidechainbox.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/sidechainbox.cpp",
+  "output": "gui/widgets/CMakeFiles/eqwin.dir/sidechainbox.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/mainwidget.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/mainwidget.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/vuwidget.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/vuwidget.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/vuwidget.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/vuwidget.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/knob2.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/knob2.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/dynamicswindow.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/dynamicswindow.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/dynamicswindow.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/dynamicswindow.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/setwidgetcolors.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/setwidgetcolors.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/setwidgetcolors.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/setwidgetcolors.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/button.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/button.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/button.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/button.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/toggle_button.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/toggle_button.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/toggle_button.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/toggle_button.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/dynplot.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/dynplot.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/dynplot.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/dynplot.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/dynamicwin.dir/sidechainbox.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/sidechainbox.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/sidechainbox.cpp",
+  "output": "gui/widgets/CMakeFiles/dynamicwin.dir/sidechainbox.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/bassupwin.dir/mainwidget.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "output": "gui/widgets/CMakeFiles/bassupwin.dir/mainwidget.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/bassupwin.dir/knob2.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "output": "gui/widgets/CMakeFiles/bassupwin.dir/knob2.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/bassupwin.dir/bassupwindow.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/bassupwindow.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/bassupwindow.cpp",
+  "output": "gui/widgets/CMakeFiles/bassupwin.dir/bassupwindow.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/mainwidget.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/mainwidget.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/mainwidget.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/vuwidget.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/vuwidget.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/vuwidget.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/vuwidget.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/knob2.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/knob2.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/knob2.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/midsidewindow.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/midsidewindow.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/midsidewindow.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/midsidewindow.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/setwidgetcolors.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/setwidgetcolors.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/setwidgetcolors.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/setwidgetcolors.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/button.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/button.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/button.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/button.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/toggle_button.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/toggle_button.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/toggle_button.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/toggle_button.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/gui/widgets",
+  "command": "/usr/bin/c++  -I/usr/include/gtkmm-3.0 -I/usr/lib/gtkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/giomm-2.4/include -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glibmm-2.4 -I/usr/lib/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/sigc++-2.0/include -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/fribidi -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cloudproviders -I/usr/include/atk-1.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/dbus-1.0/include -I/usr/include/cairomm-1.0 -I/usr/lib/cairomm-1.0/include -I/usr/include/pangomm-1.4 -I/usr/lib/pangomm-1.4/include -I/usr/include/atkmm-1.6 -I/usr/lib/atkmm-1.6/include -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/gdkmm-3.0/include -O3 -DNDEBUG -std=c++11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/midsidewin.dir/sidechainbox.cpp.o -c /home/anon/dev/cpp/eq10q/gui/widgets/sidechainbox.cpp",
+  "file": "/home/anon/dev/cpp/eq10q/gui/widgets/sidechainbox.cpp",
+  "output": "gui/widgets/CMakeFiles/midsidewin.dir/sidechainbox.cpp.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/dsp",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/lib_filter.dir/filter.c.o -c /home/anon/dev/cpp/eq10q/dsp/filter.c",
+  "file": "/home/anon/dev/cpp/eq10q/dsp/filter.c",
+  "output": "dsp/CMakeFiles/lib_filter.dir/filter.c.o"
+},
+{
+  "directory": "/home/anon/dev/cpp/eq10q/dsp",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=c11 -fPIC -Wall -Wextra -Wswitch -Wparentheses -Wfloat-equal -Wno-deprecated -finline-functions -finline-functions-called-once -msse -msse2 -mfpmath=sse -o CMakeFiles/lib_vumeter.dir/vu.c.o -c /home/anon/dev/cpp/eq10q/dsp/vu.c",
+  "file": "/home/anon/dev/cpp/eq10q/dsp/vu.c",
+  "output": "dsp/CMakeFiles/lib_vumeter.dir/vu.c.o"
+}
+]
